@@ -1,10 +1,10 @@
 
 from test_case import TestCase
-from test_case_register import TestCaseRegister
+from test_case_register import TestCaseRepository
 
 
 def main():
-    register = TestCaseRegister()
+    register = TestCaseRepository()
 
     while True:
         print("\n===== TESTFALLSREGISTER =====")

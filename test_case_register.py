@@ -1,5 +1,5 @@
 
-class TestCaseRegister:
+class TestCaseRepository:
     def __init__(self):
         self.test_cases = []
 
